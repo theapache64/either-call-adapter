@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "id": 1,
+   "type": "implementation",
+   "installed_name": "retrofit",
+   "gpm_dep": {
+    "artifact_id": "retrofit",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit",
+    "get_from": "Central",
+    "group_id": "com.squareup.retrofit2",
+    "name": "Retrofit",
+    "description": "A type-safe HTTP client for Android and Java."
+   }
+  },
+  {
+   "id": 2,
+   "type": "implementation",
+   "installed_name": "moshi",
+   "gpm_dep": {
+    "artifact_id": "moshi",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.moshi/moshi",
+    "get_from": "Central",
+    "group_id": "com.squareup.moshi",
+    "name": "Moshi",
+    "description": "Moshi"
+   }
+  },
+  {
+   "id": 3,
+   "type": "kapt",
+   "installed_name": "moshi-codegen",
+   "gpm_dep": {
+    "artifact_id": "moshi-kotlin-codegen",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.moshi/moshi-kotlin-codegen",
+    "get_from": "Central",
+    "group_id": "com.squareup.moshi",
+    "name": "Moshi Kotlin Codegen",
+    "description": "Moshi Kotlin Codegen"
+   }
+  },
+  {
+   "id": 4,
+   "type": "implementation",
+   "installed_name": "moshi-convertor",
+   "gpm_dep": {
+    "artifact_id": "converter-moshi",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-moshi",
+    "get_from": "Central",
+    "group_id": "com.squareup.retrofit2",
+    "name": "Converter: Moshi",
+    "description": "A Retrofit Converter which uses Moshi for serialization."
+   }
+  },
+  {
+   "id": 5,
+   "type": "implementation",
+   "installed_name": "coroutines",
+   "gpm_dep": {
+    "artifact_id": "kotlinx-coroutines-core",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core",
+    "get_from": "Central",
+    "group_id": "org.jetbrains.kotlinx",
+    "name": "Kotlinx Coroutines Core",
+    "description": "Coroutines support libraries for Kotlin"
+   }
+  }
+ ]
+}
